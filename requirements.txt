@@ -2,3 +2,5 @@ streamlit
 nltk
 scikit-learn
 numpy
+ultralytics
+opencv-python-headless
