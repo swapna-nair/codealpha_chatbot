@@ -2,3 +2,5 @@ streamlit
 nltk
 scikit-learn
 numpy
+music21
+tensorflow
